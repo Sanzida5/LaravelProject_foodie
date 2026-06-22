@@ -249,7 +249,7 @@ Password: 123456789
 
 <img width="938" height="446" alt="Screenshot 2026-06-23 005151" src="https://github.com/user-attachments/assets/a2500ff8-ff28-4473-a9f9-62e01ebebd1c" />
 
- ##User Register & Login
+## User Register & Login
  <img width="959" height="415" alt="Screenshot 2026-06-23 005135" src="https://github.com/user-attachments/assets/4674fb5b-fb4b-45f7-bcca-14896e31fee0" />
 <img width="959" height="416" alt="Screenshot 2026-06-23 005143" src="https://github.com/user-attachments/assets/653cadc1-44a1-4f7e-8527-0aa28b37c661" />
 
@@ -271,7 +271,7 @@ Password: 123456789
 
 <img width="932" height="400" alt="Screenshot 2026-06-23 005012" src="https://github.com/user-attachments/assets/39f536ce-e0d4-4e10-b29e-c73d3ab7efa9" />
 
-### Admin Manage Orders Page
+### Admin Manage Category Page
 
 <img width="959" height="404" alt="Screenshot 2026-06-23 005023" src="https://github.com/user-attachments/assets/6c2b2a0e-991e-4deb-80a6-16bc1fbb5078" />
 <img width="713" height="313" alt="Screenshot 2026-06-23 005031" src="https://github.com/user-attachments/assets/78cb5284-69dd-4f80-99cb-fbbb8599999f" />
